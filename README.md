@@ -12,6 +12,7 @@ The aim of the task is to create a RESTful API to convert currencies. The API is
 * **Spring Boot:** an open source Java-based framework used to create a micro service
 * **Postman:** an API platform for building and using APIs (note: in this task, this was used to try built API.)
 * **Virtual Studio Code:** a code editor redefined and optimized for building and debugging modern web and cloud applications
+* **Heroku:** a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.(note: not used yet for the task)
 
 ### Used Data Source (API)
 * **Exchange rates api:** is a free service for current and historical foreign exchange rates published by the European Central Bank.
