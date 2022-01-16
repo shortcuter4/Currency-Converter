@@ -1,7 +1,7 @@
 # Java Currency Converter
 
 ## Description of the task
-The aim of the task is to create a RESTful API to convert currencies. The API is supposed to leverage the exchange rates provided at https://exchangeratesapi.io/ and return a converted value according to the given inputs
+The aim of the task is to create a RESTful API to convert currencies. The API is supposed to leverage the exchange rates provided at https://exchangeratesapi.io/ and return a converted value according to the given inputs. Design architecture has been researched, and first link from the Reference section at the bottom was helpful to be understood.
 
 ### The given inputs are as follows
 *  A source currency
